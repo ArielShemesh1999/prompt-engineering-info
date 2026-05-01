@@ -1,6 +1,6 @@
-# Prompt Engineer Info
+# Prompt Engineer
 
-> A focused chat tool that turns rough ideas into precise, AI-ready prompts through four guided questions.
+> Turn rough ideas into precise, AI-ready prompts through four guided questions. Local-first.
 
 ## 🌐 Live Site
 
@@ -9,26 +9,6 @@
 [![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel&logoColor=white)](https://prompt-engineering-five.vercel.app/)
 
 ---
-
-## About
-
-Prompt Engineer takes a vague idea and walks you through four targeted questions — discovery, audience, constraints, format — until it is a polished prompt ready to paste into any model. No accounts, no backend, no friction. Local-first by design: every prompt stays on your device, with frozen snapshots for older runs.
-
-### Sections
-
-| Section | What it shows |
-| --- | --- |
-| **Idea Capture** | Start with whatever rough phrasing you have. |
-| **Guided Questions** | Four targeted questions that surface intent. |
-| **Synthesis** | Final prompt assembled from your answers. |
-| **Refinement** | Adjust after the fact and watch the prompt evolve. |
-| **History** | Local-first record of every prompt and its lineage. |
-| **Snapshots** | Older prompts keep their original state, frozen. |
-| **Privacy** | Nothing leaves the browser — no tracking, no backend. |
-
-## Tech Stack
-
-HTML · CSS · JavaScript · LocalStorage · zero-backend
 
 ## Contact
 
