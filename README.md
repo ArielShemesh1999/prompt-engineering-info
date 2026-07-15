@@ -7,7 +7,7 @@
 
 ## 🌐 Live Site
 
-### → [**prompt-engineering-five.vercel.app**](https://prompt-engineering-five.vercel.app/)
+### → [**prompt-engineer-v1.vercel.app**](https://prompt-engineer-v1.vercel.app/)
 
 ---
 
