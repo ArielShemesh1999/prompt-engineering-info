@@ -4,10 +4,6 @@
 
 **Live:** [prompt-engineer-v1.vercel.app](https://prompt-engineer-v1.vercel.app)
 
-<p align="center">
-  <img src="assets/preview.webp" alt="prompt-engineering — the live site" width="100%">
-</p>
-
 The build before this one was a wizard: four hardcoded questions in a fixed order, one model call at the end. It now reads the transcript every turn and decides for itself whether anything still needs asking; a detailed brief can go straight to the finished prompt with **zero** questions.
 
 ## Why there is no step counter, and why every turn ships a snapshot
