@@ -53,4 +53,4 @@ Audio goes through an `AudioWorklet`, hand-encoded to 16 kHz mono 16-bit WAV, tr
 
 ---
 
-Built by [@shear559](https://github.com/shear559).
+Source is private. Built by [@shear559](https://github.com/shear559).
